@@ -6,6 +6,8 @@ public class Test : MonoBehaviour
 {
     public int helloThere;
 
+    public string mamamia;
+
     public GameObject gameObject;
 
     // Start is called before the first frame update
